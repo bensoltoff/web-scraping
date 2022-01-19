@@ -15,6 +15,8 @@ This workshop is designed for individuals with introductory-to-intermediate expe
 
 ## Prework
 
+I recommend using RStudio Cloud for this workshop as all the required packages have been pre-configured. If you want to use your local installation of R, follow the instructions below to ensure you have all required packages and materials.
+
 ### On RStudio Cloud
 
 - Please sign up for a free [RStudio Cloud account](https://rstudio.cloud)
