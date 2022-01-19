@@ -1,0 +1,40 @@
+---
+title: "TITLE HERE"
+description: |
+  DESCRIPTION HERE
+author:
+  - name: Benjamin Soltoff
+    url: https://www.bensoltoff.com
+    affiliation: University of Chicago
+    affiliation_url: https://macss.uchicago.edu
+date: "DATE WHEN WORKSHOP WILL BE HELD"
+creative_commons: CC BY-NC
+output:
+  distill::distill_article:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+
+
+## Objectives
+
+
+## Audience
+
+
+## Location
+
+Room 295 in [1155 E 60th St](https://goo.gl/maps/7n7wDsd9mjnfRBtR8).
+
+
+## Prework
+
+
+## Links
+
+
