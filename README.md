@@ -14,9 +14,7 @@ output:
     keep_md: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 ## Overview
 
@@ -58,3 +56,5 @@ This workshop is designed for individuals with introductory-to-intermediate expe
 ## Links
 
 
+```{.r .distill-force-highlighting-css}
+```
