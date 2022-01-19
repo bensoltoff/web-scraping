@@ -9,6 +9,7 @@ author:
     affiliation_url: https://macss.uchicago.edu
 date: 2022-01-27
 creative_commons: CC BY-NC-SA
+repository_url: https://github.com/bensoltoff/web-scraping
 output: distill::distill_article
 ---
 
