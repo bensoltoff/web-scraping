@@ -8,7 +8,7 @@ author:
     affiliation: University of Chicago
     affiliation_url: https://macss.uchicago.edu
 date: 2022-01-27
-creative_commons: CC BY-NC
+creative_commons: CC BY-NC-SA
 output:
   distill::distill_article:
     keep_md: true
