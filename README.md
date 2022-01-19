@@ -1,20 +1,4 @@
----
-title: "Gathering data from the web: Scraping with `rvest`"
-description: |
-  A hands-on introduction to web scraping in R.
-author:
-  - name: Benjamin Soltoff
-    url: https://www.bensoltoff.com
-    affiliation: University of Chicago
-    affiliation_url: https://macss.uchicago.edu
-date: 2022-01-27
-creative_commons: CC BY-NC-SA
-output:
-  distill::distill_article:
-    keep_md: true
----
-
-
+# Gathering data from the web: Scraping with `rvest`
 
 ## Overview
 
@@ -52,9 +36,3 @@ This workshop is designed for individuals with introductory-to-intermediate expe
     ```r
     usethis::use_course("bensoltoff/web-scraping")
     ```
-    
-## Links
-
-
-```{.r .distill-force-highlighting-css}
-```
