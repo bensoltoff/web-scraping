@@ -1,5 +1,3 @@
-# Gathering data from the web: Scraping with `rvest`
-
 ## Overview
 
 Importing data is one of the first steps in a data science workflow. Unfortunately not all data sources come in ready-to-use tabular formats. Frequently individuals need to collect and organize data stored within HTML web pages. In this demonstration we will review the basic structure of HTML source code and practice reproducibly scraping content using the [`rvest`](https://rvest.tidyverse.org/) package in R.
