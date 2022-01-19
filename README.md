@@ -36,3 +36,7 @@ I recommend using RStudio Cloud for this workshop as all the required packages h
     ```r
     usethis::use_course("bensoltoff/web-scraping")
     ```
+
+## Links
+
+- [Slides from the workshop](slides/index.html)
